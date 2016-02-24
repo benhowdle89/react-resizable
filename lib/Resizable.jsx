@@ -28,7 +28,6 @@ export default class Resizable extends React.Component {
     children: PropTypes.element.isRequired,
 
     // Initial w/h
-    width: PropTypes.number.isRequired,
     height: PropTypes.number.isRequired,
 
     //
